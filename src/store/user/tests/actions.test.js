@@ -1,5 +1,5 @@
 import axios from "axios";
-import { spaceUpdated, signUp, SPACE_UPDATED } from "../actions";
+import { spaceUpdated, signUp } from "../actions";
 
 jest.mock("axios");
 
